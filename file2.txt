@@ -1,3 +1,4 @@
 seconf requirement
 next require
-added for stash test
+added for stash tes
+ireq for stash
